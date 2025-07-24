@@ -2,7 +2,7 @@
 
 This project performs an exploratory data analysis on a dataset of crimes in Los Angeles. The analysis aims to uncover key patterns in crime incidents, focusing on the time of day, location, and victim demographics.
 
-#Analysis Overview
+# Analysis Overview
 
 The notebook uses pandas, numpy, matplotlib, and seaborn to manipulate and analyze the crimes.csv dataset to answer three main questions:
 
