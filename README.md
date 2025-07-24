@@ -24,6 +24,6 @@ The analysis examines geographical data from 2018 to 2023 to compare search inte
 4. Which country has the highest interest in "home workouts"?
 Focusing on regional preferences, the project uses bar charts to compare the popularity of "home workout," "gym workout," and "home gym" in different countries, determining the top country for at-home fitness interest.
 
-#Technologies Used
+# Technologies Used
 
 Python (pandas, matplotlib, seaborn)
