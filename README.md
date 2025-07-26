@@ -1,3 +1,4 @@
+![LA_Skyline](la_skyline.jpg)
 # Los Angeles Crime Data Analysis
 
 This project performs an exploratory data analysis on a dataset of crimes in Los Angeles. The analysis aims to uncover key patterns in crime incidents, focusing on the time of day, location, and victim demographics.
